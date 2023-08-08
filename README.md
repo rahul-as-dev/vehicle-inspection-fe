@@ -1,1 +1,2 @@
-A react native app for vehicle inspection.
+- A react native app for vehicle inspection.
+- App has user login support via mobile otp, vehicle image upload functionality, and report viewing/generation suppport.
